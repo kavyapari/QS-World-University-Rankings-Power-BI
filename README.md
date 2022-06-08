@@ -29,16 +29,16 @@ This dataset contains university data from the year 2017 to 2022. It has a total
 
 1. university - name of the university
 2. year - year of ranking
-rank_display - rank given to the university
-score - score of the university based on the six key metrics mentioned above
-link - link to the university profile page on QS website
-country - country in which the university is located
-city - city in which the university is located
-region - continent in which the university is located
-logo - link to the logo of the university
-type - type of university (public or private)
-research_output - quality of research at the university
-studentfacultyratio - number of students assigned to per faculty
-international_students - number of international students enrolled at the university
-size - size of the university in terms of area
-faculty_count - number of faculty or academic staff at the university
+3. rank_display - rank given to the university
+4. score - score of the university based on the six key metrics mentioned above
+5. link - link to the university profile page on QS website
+6. country - country in which the university is located
+7. city - city in which the university is located
+8. region - continent in which the university is located
+9. logo - link to the logo of the university
+10. type - type of university (public or private)
+11. research_output - quality of research at the university
+12. studentfacultyratio - number of students assigned to per faculty
+13. international_students - number of international students enrolled at the university
+14. size - size of the university in terms of area
+15. faculty_count - number of faculty or academic staff at the university
