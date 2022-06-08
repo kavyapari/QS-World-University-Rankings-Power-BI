@@ -1,6 +1,7 @@
 # QS-World-University-Rankings-Power-BI
 
-##Introduction
+## Introduction
+
 QS World University Rankings is an annual publication of global university rankings
 by Quacquarelli Symonds, compiled using data from trusted sources.
 The QS ranking receives approval from the International Ranking Expert Group
@@ -8,7 +9,8 @@ The QS ranking receives approval from the International Ranking Expert Group
 the world, along with Academic Ranking of World Universities and Times Higher
 Education World University Rankings.
 
-##Data Description
+## Data Description
+
 It features 1,300 universities from around the world. Each institution has been
 assessed according to six key metrics.
 The six metrics are:
@@ -21,11 +23,12 @@ The six metrics are:
 
    But Our dataset contains only 3 parameters which has 45% weightage.
    
-##Terminologies
+## Terminologies
+
 This dataset contains university data from the year 2017 to 2022. It has a total of 15 features.
 
-university - name of the university
-year - year of ranking
+1. university - name of the university
+2. year - year of ranking
 rank_display - rank given to the university
 score - score of the university based on the six key metrics mentioned above
 link - link to the university profile page on QS website
