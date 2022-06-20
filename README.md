@@ -9,7 +9,14 @@ The QS ranking receives approval from the International Ranking Expert Group
 the world, along with Academic Ranking of World Universities and Times Higher
 Education World University Rankings.
 
-## Data Description
+## Objective
+
+~ To find out which universities have secured the top positions in the last QS Global University Rankings and what factors go into making a
+top-ranked university.
+~ Providing analysis for comparison between the top Indian and Global universities on the basis ofseveral global ranking parameters
+
+
+## Parameters
 
 It features 1,300 universities from around the world. Each institution has been
 assessed according to six key metrics.
@@ -23,7 +30,7 @@ The six metrics are:
 
    But Our dataset contains only 3 parameters which has 45% weightage.
    
-## Terminologies
+## Data Description
 
 This dataset contains university data from the year 2017 to 2022. It has a total of 15 features.
 
