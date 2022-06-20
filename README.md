@@ -11,9 +11,9 @@ Education World University Rankings.
 
 ## Objective
 
-~ To find out which universities have secured the top positions in the last QS Global University Rankings and what factors go into making a
+1. To find out which universities have secured the top positions in the last QS Global University Rankings and what factors go into making a
 top-ranked university.
-~ Providing analysis for comparison between the top Indian and Global universities on the basis ofseveral global ranking parameters
+2. Providing analysis for comparison between the top Indian and Global universities on the basis ofseveral global ranking parameters
 
 
 ## Parameters
